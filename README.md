@@ -1,4 +1,4 @@
--- Uydu Görüntülerinde Değişim Tespiti
+🛰️ Uydu Görüntülerinde Değişim Tespiti
 
 Bu proje, farklı zamanlarda çekilmiş uydu görüntüleri arasında yapısal ve çevresel değişimleri tespit edebilen bir yapay zeka sistemidir. Model, U-Net mimarisi ile geliştirilmiş ve görüntü segmentasyonu yaklaşımı kullanılarak eğitilmiştir.
 
@@ -46,7 +46,7 @@ Kayıp fonksiyonu olarak Binary Crossentropy + Dice Loss kullanılmıştır.
 
 📌 Notlar
 Eğitim süresi donanıma göre değişiklik gösterebilir.
-Daha yüksek doğruluk için epoch sayısı artırılabilir veya farklı optimizasyon teknikleri denenebilir.
+Sistem %100 doğrulukla çalışmamaktadır ve çıktılar mutlaka insan gözetimiyle değerlendirilmelidir. Modelin performansı, daha fazla veri ve optimizasyon ile geliştirilebilir.
 
 📬 İletişim
 Bu proje bir iş başvuru test projesi kapsamında geliştirilmiştir.
