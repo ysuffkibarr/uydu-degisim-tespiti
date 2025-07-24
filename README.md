@@ -46,6 +46,7 @@ Kayıp fonksiyonu olarak Binary Crossentropy + Dice Loss kullanılmıştır.
 
 📌 Notlar
 Eğitim süresi donanıma göre değişiklik gösterebilir.
+
 Sistem %100 doğrulukla çalışmamaktadır ve çıktılar mutlaka insan gözetimiyle değerlendirilmelidir. Modelin performansı, daha fazla veri ve optimizasyon ile geliştirilebilir.
 
 📬 İletişim
