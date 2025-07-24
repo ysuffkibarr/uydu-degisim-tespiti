@@ -4,6 +4,7 @@ Bu proje, farklı zamanlarda çekilmiş uydu görüntüleri arasında yapısal v
 
 📌 Proje Amacı
 İki farklı tarihte alınmış uydu görüntüleri arasında:
+
 Yeni yapılaşma
 Doğal afet etkileri (yangın, sel, vs.)
 Tarımsal değişiklikler gibi farkları otomatik olarak tespit edebilmek.
