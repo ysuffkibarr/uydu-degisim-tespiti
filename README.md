@@ -1,0 +1,1 @@
+# uydu-degisim-tespiti
